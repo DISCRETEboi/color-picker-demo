@@ -1,0 +1,128 @@
+amerika	American Politics-Inspired Color Palette Generator
+cetcolor	CET Perceptually Uniform Colour Maps
+chameleon	Automatic Colors for Multi-Dimensional Data
+cmocean	Beautiful Colour Maps for Oceanography
+cns	Color Naming System
+colorblindcheck	Check Color Palettes for Problems with Color Vision Deficiency
+colorBlindness	Safe Color Set for Color Blindness
+colorDF	Colorful Data Frames in R Terminal
+colordistance	Distance Metrics for Image Color Similarity
+coloredICA	Implementation of Colored Independent Component Analysis and Spatial Colored Independent Component Analysis
+colorednoise	Simulate Temporally Autocorrelated Populations
+colorfindr	Extract Colors from Windows BMP, JPEG, PNG, TIFF, and SVG Format Images
+colorfulVennPlot	Plot and add custom coloring to Venn diagrams for 2-dimensional, 3-dimensional and 4-dimensional data
+colorhcplot	Colorful Hierarchical Clustering Dendrograms
+colorhex	Colors and Palettes from Color-Hex
+colorist	Coloring Wildlife Distributions in Space-Time
+colorizer	Colorize Old Images Using the 'DeOldify' Image Colorization API
+colormap	Color Palettes using Colormaps Node Module
+ColorNameR	Give Colors a Name
+ColorPalette	Color Palettes Generator
+colorpatch	Optimized Rendering of Fold Changes and Confidence Values
+colorr	Color Palettes for EPL, MLB, NBA, NHL, and NFL Teams
+colorRamps	Builds color tables
+colorscience	Color Science Methods and Data
+colorspace	A Toolbox for Manipulating and Assessing Colors and Palettes
+colorSpec	Color Calculations with Emphasis on Spectral Data
+colortools	Tools for colors in a Hue-Saturation-Value (HSV) color model
+colourlovers	R Client for the COLOURlovers API
+colourpicker	A Colour Picker Tool for Shiny and for Selecting Colours in Plots
+colourvalues	Assigns Colours to Values
+colourvision	Colour Vision Models
+colt	Command-Line Color Themes
+corazon	Apply 'colorffy' Color Gradients Within 'shiny' Elements
+countcolors	Locates and Counts Pixels Within Color Range(s) in Images
+cptcity	'cpt-city' Colour Gradients
+crayon	Colored Terminal Output
+CVD	Color Vision Deficiencies
+dendroextras	Extra Functions to Cut, Label and Colour Dendrogram Clusters
+dichromat	Color Schemes for Dichromats
+directlabels	Direct Labels for Multicolor Plots
+earthtones	Derive a Color Palette from a Particular Location on Earth
+factoptd	Factorial Optimal Designs for Two-Colour cDNA Microarray Experiments
+farver	High Performance Colour Space Manipulation
+fishualize	Color Palettes Based on Fish Species
+gameR	Color Palettes Inspired by Video Games
+GenTag	Generate Color Tag Sequences
+ggfan	Summarise a Distribution Through Coloured Intervals
+ggnewscale	Multiple Fill and Colour Scales in 'ggplot2'
+ggsci	Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
+ghibli	Studio Ghibli Colour Palettes
+gradientPickerD3	Interactive Color Gradient Picker Using 'htmlwidgets' and the Modified JS Script 'jquery-gradient-picker'
+hues	Distinct Colour Palettes Based on 'iwanthue'
+ig.vancouver.2014.topcolour	Instagram 2014 Vancouver Top Colour Dataset
+ImaginR	Delimit and Characterize Color Phenotype of the Pearl Oyster
+imgpalr	Create Color Palettes from Images
+impressionist.colors	Impressionism's Color Palettes
+interfr	Interference Color Charts for Polarized Light Microscopy
+jcolors	Colors Palettes for R and 'ggplot2', Additional Themes for 'ggplot2'
+jgcricolors	Manage 'JGCRI' Color Palettes
+khroma	Colour Schemes for Scientific Data Visualization
+legocolors	Official Lego Color Palettes
+lisa	Color Palettes from Color Lisa
+MetBrewer	Color Palettes Inspired by Works at the Metropolitan Museum of Art
+mexicolors	Mexican Politics-Inspired Color Palette Generator
+moduleColor	Basic Module Functions
+monochromeR	Easily Create, View and Use Monochrome Colour Palettes
+morgenstemning	Color schemes compatible with red-green color perception difficulties
+multicolor	Add Multiple Colors to your Console & RMarkdown Output
+munsell	Utilities for Using Munsell Colours
+nic	Nature Inspired Colours
+nord	Arctic Ice Studio's Nord and Group of Seven Inspired Colour Palettes for 'ggplot2'
+oaColors	OpenAnalytics Colors Package
+oompaBase	Class Unions, Matrix Operations, and Color Schemes for OOMPA
+optbdmaeAT	Optimal Block Designs for Two-Colour cDNA Microarray Experiments
+optrcdmaeAT	Optimal Row-Column Designs for Two-Colour cDNA Microarray Experiments
+painbow	Use XKCD's "Painbow" Colormap in ggplot2
+painter	Creation and Manipulation of Color Palettes
+paletteer	Comprehensive Collection of Color Palettes
+paletteknife	Create Colour Scales and Legend from Continuous or Categorical Vectors
+palettetown	Use Pokemon Inspired Colour Palettes
+palr	Colour Palettes for Data
+pals	Color Palettes, Colormaps, and Tools to Evaluate Them
+patternize	Quantification of Color Pattern Variation
+patternplot	Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
+pavo	Perceptual Analysis, Visualization and Organization of Spectral Colour Data
+pillar	Coloured Formatting for Columns
+pixelclasser	Classifies Image Pixels by Colour
+PNWColors	Color Palettes Inspired by Nature in the US Pacific Northwest
+Polychrome	Qualitative Palettes with Many Colors
+prismatic	Color Manipulation Tools
+qualpalr	Automatic Generation of Qualitative Color Palettes
+randomcoloR	Generate Attractive Random Colors
+RanglaPunjab	Displays Palette of 5 Colors
+rcartocolor	'CARTOColors' Palettes
+RColorBrewer	ColorBrewer Palettes
+rcolors	270 'NCL' Color Tables in R Language
+rdoc	Colourised R Documentation
+recolorize	Color-Based Image Segmentation
+Redmonder	Microsoft(r)-Inspired Color Palettes
+RImagePalette	Extract the Colors from Images
+roloc	Convert Colour Specification to Colour Name
+rolocISCCNBS	A Colour List and Colour Metric Based on the ISCC-NBS System of Color Designation
+rtist	A Color Palette Generator
+sanzo	Color Palettes Based on the Works of Sanzo Wada
+schemr	Convert Images to Usable Color Schemes
+scico	Colour Palettes Based on the Scientific Colour-Maps
+see	Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
+seecolor	View Colors Used in R Objects in the Console
+shades	Simple Colour Manipulation
+shape	Functions for Plotting Graphical Shapes, Colors
+simplecolors	Access Color Names Using a Standardized Nomenclature
+soptdmaeA	Sequential Optimal Designs for Two-Colour cDNA Microarray Experiments
+spacesRGB	Standard and User-Defined RGB Color Spaces, with Conversion Between RGB and CIE XYZ
+spacesXYZ	CIE XYZ and some of Its Derived Color Spaces
+squash	Color-Based Plots for Multivariate Visualization
+SRCS	Statistical Ranking Color Scheme for Multiple Pairwise Comparisons
+swatches	Read, Inspect, and Manipulate Color Swatch Files
+tabxplor	User-Friendly Tables with Color Helpers for Data Exploration
+tayloRswift	Color Palettes Generated by Taylor Swift Albums
+teamcolors	Color Palettes for Pro Sports Teams
+trekcolors	Star Trek Color Palettes
+tricolore	A Flexible Color Scale for Ternary Compositions
+tvthemes	TV Show Themes and Color Palettes for 'ggplot2' Graphics
+ucie	Mapping 3D Data into CIELab Color Space
+viridis	Colorblind-Friendly Color Maps for R
+viridisLite	Colorblind-Friendly Color Maps (Lite Version)
+wacolors	Colorblind-Friendly Palettes from Washington State
+xkcdcolors	Color Names from the XKCD Color Survey
