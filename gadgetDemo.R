@@ -9,7 +9,7 @@ gadgetDemo <- function() {
     miniContentPanel(scrollable = T, padding = 0,
       fillCol(
         fillRow(
-          colourInput("color", "Pick Color"),
+          colorPickr("color", "Pick Color"),
           textOutput("color")
         )
       )
