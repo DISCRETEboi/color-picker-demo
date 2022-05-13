@@ -1,0 +1,181 @@
+adimpro	Adaptive Smoothing of Digital Images
+akmedoids	Anchored Kmedoids for Longitudinal Data Clustering
+analogsea	Interface to 'Digital Ocean'
+anyLib	Install and Load Any Package from CRAN, Bioconductor or Github
+	archivist.github	Tools for Archiving, Managing and Sharing R Objects via GitHub
+	askpass	Safe Password Entry for R, Git, and SSH
+AsynchLong	Regression Analysis of Sparse Asynchronous Longitudinal Data
+BayesLogit	PolyaGamma Sampling
+bayeslongitudinal	Adjust Longitudinal Regression Models Using Bayesian Methodology
+BayesRGMM	Bayesian Robust Generalized Mixed Models for Longitudinal Data
+BClustLonG	A Dirichlet Process Mixture Model for Clustering Longitudinal Gene Expression Data
+BeyondBenford	Compare the Goodness of Fit of Benford's and Blondeau Da Silva's Digit Distributions to a Given Dataset
+bild	A Package for BInary Longitudinal Data
+binomlogit	Efficient MCMC for Binomial Logit Models
+bisectr	Tools to find bad commits with git bisect
+blin	Bipartite Longitudinal Influence Network (BLIN) Estimation
+BoostMLR	Boosting for Multivariate Longitudinal Responses
+boostmtree	Boosted Multivariate Trees for Longitudinal Data
+bridgedist	An Implementation of the Bridge Distribution with Logit-Link as in Wang and Louis (2003)
+brokenstick	Broken Stick Model for Irregular Longitudinal Data
+brolgar	Browse Over Longitudinal Data Graphically and Analytically in R
+Canopy	Accessing Intra-Tumor Heterogeneity and Tracking Longitudinal and Spatial Clonal Evolutionary History by Next-Generation Sequencing
+CheckDigit	Calculate and verify check digits
+clogitboost	Boosting Conditional Logit Model
+clogitL1	Fitting Exact Conditional Logistic Regression with Lasso and Elastic Net Penalties
+clogitLasso	Sparse Conditional Logistic Regression for Matched Studies
+clustra	Clustering Longitudinal Trajectories
+cold	Count Longitudinal Data
+commonmark	High Performance CommonMark and Github Markdown Rendering in R
+compareDF	Do a Git Style Diff of the Rows Between Two Dataframes with Similar Structure
+CopernicusDEM	Copernicus Digital Elevation Models
+	credentials	Tools for Managing SSH and Git Credentials
+crimCV	Group-Based Modelling of Longitudinal Data
+dagitty	Graphical Analysis of Structural Causal Models
+ddpcr	Analysis and Visualization of Droplet Digital PCR in R and on the Web
+digitalDLSorteR	Deconvolution of Bulk RNA-Seq Data Based on Deep Learning
+digitalPCR	Estimate Copy Number for Digital PCR
+digitize	Use Data from Published Plots in R
+digitTests	Tests for Detecting Irregular Digit Patterns
+dimensionsR	Gathering Bibliographic Records from 'Digital Science Dimensions' Using 'DSL' API
+dPCP	Automated Analysis of Multiplex Digital PCR Data
+DynaRankR	Inferring Longitudinal Dominance Hierarchies
+edgeRun	More Powerful Unconditional Testing of Negative Binomial Means for Digital Gene Expression Data
+Eplot	Plotting longitudinal series
+FastJM	Semi-Parametric Joint Modeling of Longitudinal and Survival Data
+fastlogitME	Basic Marginal Effects for Logit Models
+	fgitR	Using 'FastGit' to Accelerate the Access to 'GitHub'
+	findInGit	Find Pattern in Files of All Branches of a 'git' Repository
+FREEtree	Tree Method for High Dimensional Longitudinal Data
+geosed	Smallest Enclosing Disc for Latitude and Longitude Points
+	gert	Simple Git Client for R
+	gh	'GitHub' 'API'
+ghclass	Tools for Managing Classes on GitHub
+	ghee	Provides a Lightweight Interface for 'GitHub' through R
+gistr	Work with 'GitHub' 'Gists'
+	git2r	Provides Access to Git Repositories
+	git2rdata	Store and Retrieve Data.frames in a Git Repository
+	git4r	Interactive Git for R
+	gitcreds	Query 'git' Credentials from 'R'
+gitdown	Turn Your Git Commit Messages into a HTML Book
+gitear	Client to the 'gitea' API
+	gitgadget	'Rstudio' Addin for Version Control and Assignment Management using Git
+githubinstall	A Helpful Way to Install R Packages Hosted on GitHub
+gitignore	Create Useful .gitignore Files for your Project
+gitlabr	Access to the 'Gitlab' API
+gitlink	Add 'Git' Links to Your Web Based Assets
+gittargets	Data Version Control for the Targets Package
+gmnl	Multinomial Logit Models with Random Parameters
+growthPheno	Plotting, Smoothing and Growth Trait Extraction for Longitudinal Data
+htree	Historical Tree Ensembles for Longitudinal Data
+hydroroute	Trace Longitudinal Hydropeaking Waves
+IDCard	Update Chinese ID Card Number to Eighteen Digits
+image.CornerDetectionF9	Find Corners in Digital Images with FAST-9
+installr	Using R to Install Stuff on Windows OS (Such As: R, 'Rtools', 'RStudio', 'Git', and More!)
+IPDfromKM	Map Digitized Survival Curves Back to Individual Patient Data
+ipkg	Install R Packages on GitHub from Hub.fastgit.org
+IrregLong	Analysis of Longitudinal Data with Irregular Observation Times
+jlctree	Joint Latent Class Trees for Joint Modeling of Time-to-Event and Longitudinal Data
+JM	Joint Modeling of Longitudinal and Survival Data
+JMbayes	Joint Modeling of Longitudinal and Time-to-Event Data under a Bayesian Approach
+JMbayes2	Extended Joint Models for Longitudinal and Time-to-Event Data
+JMdesign	Joint Modeling of Longitudinal and Survival Data - Power Calculation
+joineRML	Joint Modelling of Multivariate Longitudinal Data and Time-to-Event Outcomes
+JointModel	Semiparametric Joint Models for Longitudinal and Counting Processes
+JSM	Semiparametric Joint Modeling of Survival and Longitudinal Data
+kml	K-Means for Longitudinal Data
+kml3d	K-Means for Joint Longitudinal Data
+kmlShape	K-Means for Longitudinal Data using Shape-Respecting Distance
+latrend	A Framework for Clustering Longitudinal Data
+lcc	Longitudinal Concordance Correlation
+LCox	A Tool for Selecting Genes Related to Survival Outcomes using Longitudinal Gene Expression Data
+lddmm	Longitudinal Drift-Diffusion Mixed Models (LDDMM)
+LDNN	Longitudinal Data Neural Network
+LeafArea	Rapid Digital Image Analysis of Leaf Area
+LEGIT	Latent Environmental & Genetic InTeraction (LEGIT) Model
+lehdr	Grab Longitudinal Employer-Household Dynamics (LEHD) Flat Files
+LGEWIS	Tests for Genetic Association/Gene-Environment Interaction in Longitudinal Studies
+lglasso	Longitudinal Graphical Lasso
+lgpr	Longitudinal Gaussian Process Regression
+LGRF	Set-Based Tests for Genetic Association in Longitudinal Studies
+lgtdl	A Set of Methods for Longitudinal Data Objects
+librarian	Install, Update, Load Packages from CRAN, 'GitHub', and 'Bioconductor' in One Step
+LLM	Logit Leaf Model Classifier for Binary Classification
+LoBrA	Generalized Spline Mixed Effect Models for Longitudinal Breath Data
+LocKer	Locally Sparse Estimator of Generalized Varying Coefficient Model for Asynchronous Longitudinal Data
+loggit	Modern Logging for the R Ecosystem
+logitFD	Functional Principal Components Logistic Regression
+logitnorm	Functions for the Logitnormal Distribution
+logitr	Logit Models w/Preference & WTP Space Utility Parameterizations
+LongCART	Recursive Partitioning for Longitudinal Data and Right Censored Data Using Baseline Covariates
+longCatEDA	Package for Plotting Categorical Longitudinal and Time-Series Data
+longclust	Model-Based Clustering and Classification for Longitudinal Data
+LongDat	A Tool for 'Confounder'-Sensitive Longitudinal Analysis on 'Multi-omics' Data
+longit	High Dimensional Longitudinal Data Analysis Using MCMC
+longitudinal	Analysis of Multiple Time Course Data
+longitudinalcascade	Longitudinal Cascade
+longitudinalData	Longitudinal Data
+LongituRF	Random Forests for Longitudinal Data
+longmixr	Longitudinal Consensus Clustering with 'flexmix'
+longpower	Sample Size Calculations for Longitudinal Data
+longRPart2	Recursive Partitioning of Longitudinal Data
+LPower	Calculates Power, Sample Size, or Detectable Effect for Longitudinal Analyses
+ltmle	Longitudinal Targeted Maximum Likelihood Estimation
+mapsRinteractive	Local Adaptation and Evaluation of Digital Soil Maps
+mclogit	Multinomial Logit Models, with or without Random Effects or Overdispersion
+metaDigitise	Extract and Summarise Data from Published Figures
+MetaLonDA	Metagenomics Longitudinal Differential Abundance Method
+mgee2	Marginal Analysis of Misclassified Longitudinal Ordinal Data
+mixl	Simulated Maximum Likelihood Estimation of Mixed Logit Models for Large Datasets
+MLModelSelection	Model Selection in Multivariate Longitudinal Data Analysis
+mlogit	Multinomial Logit Models
+mlogitBMA	Bayesian Model Averaging for Multinomial Logit Models
+mlxR	Simulation of Longitudinal Data
+MNLpred	Simulated Predicted Probabilities for Multinomial Logit Models
+MtreeRing	A Shiny Application for Automatic Measurements of Tree-Ring Widths on Digital Images
+networkDynamicData	Dynamic (Longitudinal) Network Datasets
+nparLD	Nonparametric Analysis of Longitudinal Data in Factorial Experiments
+npmlda	Nonparametric Models for Longitudinal Data
+panelaggregation	Aggregate Longitudinal Survey Data
+ParallelDSM	Parallel Digital Soil Mapping using Machine Learning
+phenopix	Process Digital Images of a Vegetation Cover
+piggyback	Managing Larger Data on a GitHub Repository
+pln	Polytomous Logit-Normit (Graded Logistic) Model Estimation
+plot3logit	Ternary Plots for Trinomial Regression Models
+PLreg	Power Logit Regression for Modeling Bounded Data
+pogit	Bayesian Variable Selection for a Poisson-Logistic Model
+popPCR	Classify Digital PCR Droplets by Fitting Fluorescence Populations
+ppsbm	Clustering in Longitudinal Networks
+ProbMarg	Computing Logit & Probit Predicted Probabilities & Marginal Effects
+projmgr	Task Tracking and Project Management with GitHub
+qbld	Quantile Regression for Binary Longitudinal Data
+qualmap	Opinionated Approach for Digitizing Semi-Structured Qualitative GIS Data
+recogito	Interactive Annotation of Text and Images
+REEMtree	Regression Trees with Random Effects for Longitudinal (Panel) Data
+reglogit	Simulation-Based Regularized Logistic Regression
+remotes	R Package Installation from Remote Repositories, Including 'GitHub'
+rFDSN	Get Seismic Data from the International Federation of Digital Seismograph Networks
+ROlogit	Fit Rank-Ordered Logit (RO-Logit) Model
+round	Rounding to Decimal Digits
+SimTimeVar	Simulate Longitudinal Dataset with Time-Varying Correlated Covariates
+SlaPMEG	Pathway Testing for Longitudinal Omics
+slim	Singular Linear Models for Longitudinal Data
+splinetree	Longitudinal Regression Trees and Forests
+springer	Sparse Group Variable Selection for Gene-Environment Interactions in the Longitudinal Study
+ssrm.logmer	Sample Size Determination for Longitudinal Designs with Binary Outcome
+stpm	Stochastic Process Model for Analysis of Longitudinal and Time-to-Event Outcomes
+suddengains	Identify Sudden Gains in Longitudinal Data
+SurvDisc	Discrete Time Survival and Longitudinal Data Analysis
+SurvLong	Analysis of Proportional Hazards Model with Sparse Longitudinal Covariates
+switchrGist	Publish Package Manifests to GitHub Gists
+ThankYouStars	Give your Dependencies Stars on GitHub!
+tnet	Weighted, Two-Mode, and Longitudinal Networks Analysis
+truthiness	Illusory Truth Longitudinal Study
+TwoStepCLogit	Conditional Logistic Regression: A Two-Step Estimation Method
+VariableScreening	High-Dimensional Screening for Semiparametric Longitudinal Regression
+verhoeff	Implementation of the 'Verhoeff' Check Digit Algorithm
+vlda	Visualization of Multidimensional Longitudinal Data
+weightQuant	Weights for Incomplete Longitudinal Data and Quantile Regression
+whoami	Username, Full Name, Email Address, 'GitHub' Username of the Current User
+xROI	Delineate Region of Interests (ROI's) and Extract Time-Series Data from Digital Repeat Photography Images
+yowie	Longitudinal Wages Data from the National Longitudinal Survey of Youth 1979

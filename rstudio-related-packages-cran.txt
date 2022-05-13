@@ -1,0 +1,37 @@
+addinslist	Discover and Install Useful RStudio Addins
+addinsOutline	'RStudio' Addins for Show Outline of a R Markdown/'LaTeX' Project
+adjustedcranlogs	Remove Automated and Repeated Downloads from 'RStudio' 'CRAN' Download Logs
+connectwidgets	Organize and Curate Your Content Within 'RStudio Connect'
+cranlogs	Download Logs from the 'RStudio' 'CRAN' Mirror
+CRANsearcher	RStudio Addin for Searching Packages in CRAN Database Based on Keywords
+DescToolsAddIns	Interactive Functions to be Used as Shortcuts in 'RStudio'
+dplyrAssist	RStudio Addin for Teaching and Learning Data Manipulation Using 'dplyr'
+editData	'RStudio' Addin for Editing a 'data.frame'
+	ggplotAssist	'RStudio' Addin for Teaching and Learning 'ggplot2'
+	gitgadget	'Rstudio' Addin for Version Control and Assignment Management using Git
+greekLetters	Routines for Writing Greek Letters and Mathematical Symbols on the 'RStudio' and 'RGui'
+installr	Using R to Install Stuff on Windows OS (Such As: R, 'Rtools', 'RStudio', 'Git', and More!)
+job	Run Code as an RStudio Job - Free Your Console
+JSconsole	A 'RStudio' Addin to Send 'JavaScript' Code to the 'V8' Console
+jsmodule	'RStudio' Addins and 'Shiny' Modules for Medical Research
+manipulate	Interactive Plots for RStudio
+objectremover	'RStudio' Addin for Removing Objects from the Global Environment Based on Patterns and Object Type
+packagefinder	Comfortable Search for R Packages on CRAN, Either Directly from the R Console or with an R Studio Add-in
+packagetrackr	Track R Package Downloads from RStudio's CRAN Mirror
+prettifyAddins	'RStudio' Addins to Prettify 'JavaScript', 'C++', 'Python', and More
+pylintR	Lint 'Python' Files with a R Command or a 'RStudio' Addin
+remedy	'RStudio' Addins to Simplify 'Markdown' Writing
+rgrassdoc	Consult 'Grass GIS' Documentation in the RStudio Viewer or your Browser
+rscontract	Generic implementation of the 'RStudio' connections contract
+	rskey	Create Custom 'Rstudio' Keyboard Shortcuts
+	rstudio.prefs	Set 'RStudio' Preferences
+	rstudioapi	Safely Access the RStudio API
+rtrends	Analyze Download Logs from the CRAN RStudio Mirror
+shinyaframe	'WebVR' Data Visualizations with 'RStudio Shiny' and 'Mozilla A-Frame'
+ShinyQuickStarter	'RStudio' Addin for Building Shiny Apps per Drag & Drop
+shortcuts	Useful Shortcuts to Interact with 'RStudio' Scripts
+snahelper	'RStudio' Addin for Network Analysis and Visualization
+spAddins	A Set of RStudio Addins
+testthis	Utils and 'RStudio' Addins to Make Testing Even More Fun
+	this.path	Get Executing Script's Path, from 'RStudio', 'Rgui', 'Rscript' (Shells Including Windows Command-Line / / Unix Terminal), and 'source'
+togglr	'Toggl.com' Api for 'Rstudio'

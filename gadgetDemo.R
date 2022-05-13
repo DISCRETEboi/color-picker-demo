@@ -30,25 +30,3 @@ gadgetDemo <- function() {
   
   runGadget(ui, server, viewer = dialogViewer("Shiny Gadget", 900, 900), stopOnCancel = FALSE)
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

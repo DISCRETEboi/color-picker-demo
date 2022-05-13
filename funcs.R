@@ -7,3 +7,12 @@ plotColors <- function() {
     points(seq(0.1, 100, 0.1), rep(i, 1000), col = gradient, pch = 20, cex = 0.1)
   }
 }
+
+cran_packages_page <- readClipboard()
+color_rel <- grep("colo(u)?r", cran_packages_page, ignore.case = T, value = T)
+writeLines(color_rel, "color-related-packages-cran.txt")
+writeLines(cran_packages_page, "all-packages-cran.txt")
+git_rel <- grep("git", cran_packages_page, ignore.case = T, value = T)
+writeLines(git_rel, "git-related-packages-cran.txt")
+rstudio_rel <- grep("r( )?studio", cran_packages_page, ignore.case = T, value = T)
+writeLines(rstudio_rel, "rstudio-related-packages-cran.txt")
